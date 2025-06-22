@@ -1,0 +1,1 @@
+// front-end script handling image upload and display
